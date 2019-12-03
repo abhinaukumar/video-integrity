@@ -1,0 +1,6 @@
+# Ignore folders containing data
+data/
+results/
+
+# Ignore .pyc files
+*.pyc
