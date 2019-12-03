@@ -19,11 +19,15 @@ run\_experiments.sh - Wrapper code to extract features from various pretrained m
 
 # Dependencies
 numpy
+
 scipy
+
 matplotlib
 
 sklearn
+
 mxnet
+
 gluoncv
 
 opencv
